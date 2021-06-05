@@ -25,6 +25,7 @@
 github actions lighthouse https://github.com/GoogleChrome/lighthouse-ci
 
 hot reload https://github.com/zaydek/esbuild-hot-reload
+build script https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/scripts/build.js
 
 remove unused javascript
 

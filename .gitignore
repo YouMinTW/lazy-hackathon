@@ -1,3 +1,11 @@
+# misc
 .DS_STORE
 
-node_modules
+# dependencies
+/node_modules
+
+# production
+/build
+
+# development
+/public/bundle.js
