@@ -21,3 +21,25 @@
 ## 關於
 
 此專案由 [@yakim-shu](https://github.com/yakim-shu) 負責製作，十分感謝。
+
+github actions lighthouse https://github.com/GoogleChrome/lighthouse-ci
+
+hot reload https://github.com/zaydek/esbuild-hot-reload
+build script https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/scripts/build.js
+
+remove unused javascript
+
+remove unused cdn
+https://www.wpbeginner.com/beginners-guide/speed-wordpress-save-images-optimized-web/
+
+compress
+https://tinyjpg.com/
+resize
+https://resizeimage.net/
+cdn
+
+lazy load
+
+<picture> for different breakpoint
+
+https://s.itho.me/modernweb/2020/Slides/d502.pdf

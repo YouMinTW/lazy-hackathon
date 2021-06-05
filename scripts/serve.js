@@ -21,7 +21,7 @@ const liveServer = require("live-server");
     // Removes whitespace, etc. depending on `NODE_ENV=...`.
     minify: process.env.NODE_ENV === "production",
     // Bundles JavaScript to (see `entryPoints`).
-    outfile: "public/script.js",
+    outfile: "public/bundle.js",
   });
   // `chokidar` watcher source changes.
   chokidar
