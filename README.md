@@ -21,3 +21,17 @@
 ## 關於
 
 此專案由 [@yakim-shu](https://github.com/yakim-shu) 負責製作，十分感謝。
+
+https://www.wpbeginner.com/beginners-guide/speed-wordpress-save-images-optimized-web/
+
+compress
+https://tinyjpg.com/
+resize
+https://resizeimage.net/
+cdn
+
+lazy load
+
+<picture> for different breakpoint
+
+https://s.itho.me/modernweb/2020/Slides/d502.pdf
