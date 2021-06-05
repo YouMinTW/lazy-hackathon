@@ -4,8 +4,8 @@
   "description": "Web performance enhance",
   "main": "./src/index.js",
   "scripts": {
-    "start": "node serve.js",
-    "build": "node build.js"
+    "start": "node scripts/serve.js",
+    "build": "node scripts/build.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
   "devDependencies": {
     "chokidar": "^3.5.1",
     "eslint": "^7.27.0",
+    "fs-extra": "^10.0.0",
     "live-server": "^1.2.1"
   }
 }
