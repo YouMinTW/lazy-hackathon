@@ -22,6 +22,13 @@
 
 此專案由 [@yakim-shu](https://github.com/yakim-shu) 負責製作，十分感謝。
 
+github actions lighthouse https://github.com/GoogleChrome/lighthouse-ci
+
+hot reload https://github.com/zaydek/esbuild-hot-reload
+
+remove unused javascript
+
+remove unused cdn
 https://www.wpbeginner.com/beginners-guide/speed-wordpress-save-images-optimized-web/
 
 compress
