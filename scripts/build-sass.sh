@@ -1,0 +1,1 @@
+npx sass src/sass/style.scss:css/style.css
