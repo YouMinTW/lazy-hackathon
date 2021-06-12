@@ -38,13 +38,13 @@ module.exports = merge(common, {
         use: [
           { loader: "style-loader" }, //3. Inject styles into DOM
           { loader: "css-loader" }, //2. Turns css into commonjs
-          {
-            loader: "resolve-url-loader",
-            options: {
-              debug: true,
-              sourceMap: true,
-            },
-          }, //1. Turns sass into css
+          // {
+          //   loader: "resolve-url-loader",
+          //   options: {
+          //     debug: true,
+          //     sourceMap: true,
+          //   },
+          // }, //1. Turns sass into css
           {
             loader: "sass-loader",
             options: {

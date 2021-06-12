@@ -1,7 +1,6 @@
 module.exports = {
   entry: {
     main: "./src/index.js",
-    path: __dirname + "/dist",
     //vendor: "./src/vendor.js",
   },
   module: {
