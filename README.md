@@ -43,3 +43,15 @@ lazy load
 <picture> for different breakpoint
 
 https://s.itho.me/modernweb/2020/Slides/d502.pdf
+https://cythilya.github.io/2018/07/30/image-optimization/
+https://medium.com/starbugs/%E4%BB%8A%E6%99%9A-%E6%88%91%E6%83%B3%E4%BE%86%E9%BB%9E-web-%E5%89%8D%E7%AB%AF%E6%95%88%E8%83%BD%E5%84%AA%E5%8C%96%E5%A4%A7%E8%A3%9C%E5%B8%96-e1a5805c1ca2
+
+chokidar, live-server 跟 sass 如何整合？
+
+esbuild 沒 sass plugin 沒 css purify 沒 html minify
+
+esbuild 跟 gulp? 很難搭?
+
+改用 webpack ?
+
+webpack failed at scss url loader
