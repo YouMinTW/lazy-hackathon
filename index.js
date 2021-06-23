@@ -1,3 +1,5 @@
+import "./css/style.scss";
+
 $(function () {
   const typed3 = new Typed("#typed", {
     strings: ["你知道嗎？<br>拖延...<br><br>可以拯救世界喔"],
