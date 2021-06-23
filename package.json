@@ -7,6 +7,8 @@
   },
   "devDependencies": {
     "sass": "^1.35.1",
-    "vite": "^2.3.8"
+    "vite": "^2.3.8",
+    "vite-plugin-compress": "^2.1.0",
+    "vite-plugin-imagemin": "^0.3.2"
   }
 }
